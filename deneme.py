@@ -22,3 +22,4 @@ for i in range(5):
 
 print("yarın dersim var")
 print("hello")
+print("deneme")
